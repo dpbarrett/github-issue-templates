@@ -22,6 +22,6 @@ Please, go through these steps before you submit a PR.
 
     d. Put `closes #XXXX` in your comment to auto-close the issue that your PR fixes (if such).
 
-IMPORTANT: Please review the [CONTRIBUTING.md](../CONTRIBUTING.md) file for detailed contributing guidelines.
+IMPORTANT: Please review the [CONTRIBUTING.md](../../../CONTRIBUTING.md) file for detailed contributing guidelines.
 
 **PLEASE REMOVE THIS TEMPLATE BEFORE SUBMITTING**
